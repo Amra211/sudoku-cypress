@@ -5,5 +5,7 @@ describe('Timer', () => {
       cy.contains('.status__time', `00:0${k}`)
     }
     
+    
+    
   })
 })
